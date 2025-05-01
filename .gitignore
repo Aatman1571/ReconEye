@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pdf
+recon_reports/
+.env
+.idea/
+.vscode/
