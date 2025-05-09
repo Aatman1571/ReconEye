@@ -1,4 +1,4 @@
-# 🛡️ Auto-Recon God Toolkit
+# 🛡️ Auto-Recon Toolkit
 
 A powerful, all-in-one automated reconnaissance and vulnerability scanning toolkit built for bug bounty hunters, red teamers, and security researchers.
 
